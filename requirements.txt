@@ -1,4 +1,0 @@
-Flask
-Flask-Bootstrap
-SQLAlchemy
-WTForms
